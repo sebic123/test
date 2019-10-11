@@ -1,0 +1,1 @@
+print("This is first git project. Let's see what will be next");
